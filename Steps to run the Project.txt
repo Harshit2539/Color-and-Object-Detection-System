@@ -1,0 +1,37 @@
+Title of the Project:-- Color and Object Detection system GUI App
+
+Step 1:--
+Download th zip file from this GitHub link:-- [https://github.com/Harshit2539/Color-and-Object-Detection-System]
+
+Step 2:--
+Then firstly check you system Dependency's to run the Project :--
+ 1.To check if Python is installed or not on your computer, you can follow
+ these steps based on your operating system:
+ a)Press Win + R
+ b)Type cmd and press Enter
+ c)python --version
+ d)If Python is installed, you will see the version number (e.g., Python 3.9.1).
+ If it is not installed, you will see an error message.
+ e) now visit the official website of the python and install it for you window/mac
+
+ 2. After python installed open the project folder in VS Code.and nevigate to main.py file.
+
+ 3. Open The Terminal and run the following commands to properly run your project:-
+ a) pip install opencv-python
+ b) pip install pillow
+
+ 4. Now Download the software for webcam to capture the vedio streaming in real time:-
+ a) intall iriun webcam on pc as well as your smart phone
+ b) Now Open iriun webcam on both the pc and you smart phone 
+ c) Make shure that both the devices should be Connected with the same wifi Connection 
+
+ 5. Now run the Project.
+ 
+ 6. A popup window will appear then click on the start detecction option and start detecting
+ 
+ 7. After the Detection is done hit the button stop detection and stop the app.
+
+ 8. color detection colde is incomplete it will soon be updated ...
+  
+-----------------------THANKYOU--------------------------- 
+ 
